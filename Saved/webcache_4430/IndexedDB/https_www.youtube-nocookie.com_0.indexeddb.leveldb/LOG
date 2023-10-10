@@ -1,0 +1,8 @@
+2023/10/07-14:02:40.484 462c Reusing MANIFEST C:/Users/angel/OneDrive/Documentos/Unreal Projects/Solum/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-14:02:40.484 462c Recovering log #7
+2023/10/07-14:02:40.484 462c Reusing old log C:/Users/angel/OneDrive/Documentos/Unreal Projects/Solum/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/10/07-14:04:14.044 462c Level-0 table #11: started
+2023/10/07-14:04:14.044 462c Level-0 table #11: 0 bytes OK
+2023/10/07-14:04:14.075 462c Delete type=0 #7
+2023/10/07-14:04:14.076 462c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/07-14:04:14.076 462c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
